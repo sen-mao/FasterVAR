@@ -1,6 +1,6 @@
 <div align="center">
-<h1> 🌟 StageVAR </h1>
-<h3>Stage-Aware Acceleration for Visual Autoregressive Models</h3>
+<h1> 🌟 FasterVAR </h1>
+<h3>Plug-and-Play Acceleration for Visual Autoregressive Models</h3>
 
 [![arXiv](https://img.shields.io/badge/arXiv-StageVAR-<COLOR>.svg)](https://arxiv.org/abs/2512.16483) [![arXiv](https://img.shields.io/badge/paper-StageVAR-b31b1b.svg)](https://arxiv.org/pdf/2512.16483) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sen-mao/StageVAR)
 
@@ -47,12 +47,12 @@
 Please cite our paper if you find this work useful for your research:
 
 ```bibtex
-@article{li2025stagevar,
-  title={StageVAR: Stage-Aware Acceleration for Visual Autoregressive Models},
+@article{li2025fastervar,
+  title={FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models},
   author={Li, Senmao and Wang, Kai and Khan, Salman and Khan, Fahad Shahbaz and Yang, Jian and Wang, Yaxing},
   journal={arXiv preprint arXiv:2512.16483},
   year={2025}
 }
 ```
 
-:star: If StageVAR is helpful to your projects, please help star this repo. Thanks! :hugs:
+:star: If FasterVAR is helpful to your projects, please help star this repo. Thanks! :hugs:
