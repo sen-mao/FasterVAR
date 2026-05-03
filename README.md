@@ -47,11 +47,11 @@
 Please cite our paper if you find this work useful for your research:
 
 ```bibtex
-@article{li2025fastervar,
-  title={FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models},
-  author={Li, Senmao and Wang, Kai and Khan, Salman and Khan, Fahad Shahbaz and Yang, Jian and Wang, Yaxing},
-  journal={arXiv preprint arXiv:2512.16483},
-  year={2025}
+@inproceedings{cai2026mmm,
+  title     = {FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models},
+  author    = {Li, Senmao and Wang, Kai and Khan, Salman and Khan, Fahad Shahbaz and Yang, Jian and Wang, Yaxing},
+  booktitle = {ICML},
+  year      = {2026},
 }
 ```
 
