@@ -17,9 +17,9 @@
 </p>
 
 <div align="center">
-    <img src="assets/stagevar.jpg" width="800px" alt="Overall Framework of StageVAR"/>
+    <img src="assets/fastervar.jpg" width="800px" alt="Overall Framework of StageVAR"/>
     <br>
-    <em>Figure 1. Overview of the proposed StageVAR framework. We retain the original VAR inference process for the semantic and structure establishment stages, while exploiting semantic irrelevance and low-rank properties in the fidelity refinement stage to accelerate inference.</em>
+    <em>Figure 1. Overview of the proposed FasterVAR framework. We retain the original VAR inference process for the semantic and structure establishment stages, while exploiting semantic irrelevance and low-rank properties in the fidelity refinement stage to accelerate inference.</em>
 </div>
 
 
