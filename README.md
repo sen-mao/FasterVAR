@@ -2,7 +2,7 @@
 <h1> 🌟 FasterVAR </h1>
 <h3>Plug-and-Play Acceleration for Visual Autoregressive Models</h3>
 
-[![arXiv](https://img.shields.io/badge/arXiv-FasterVAR-<COLOR>.svg)](https://arxiv.org/abs/2512.16483) [![arXiv](https://img.shields.io/badge/paper-FasterVAR-b31b1b.svg)](https://arxiv.org/pdf/2512.16483) [![arXiv](https://img.shields.io/badge/中译版-Loopfree-b31b1b.svg)](https://drive.google.com/file/d/1HaEjwjQBKxZy4CW-IWI32Xjth050ToJU/view?usp=sharing) [![poster](https://img.shields.io/badge/poster-FasterVAR-f9f107.svg)](https://drive.google.com/file/d/14xb1MEefT5tI-6cXO0r8UHUNo-teNdQR/view?usp=sharing) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sen-mao/StageVAR)
+[![arXiv](https://img.shields.io/badge/arXiv-FasterVAR-<COLOR>.svg)](https://arxiv.org/abs/2512.16483) [![arXiv](https://img.shields.io/badge/paper-FasterVAR-b31b1b.svg)](https://arxiv.org/pdf/2512.16483) [![arXiv](https://img.shields.io/badge/中译版-FasterVAR-b31b1b.svg)](https://drive.google.com/file/d/1HaEjwjQBKxZy4CW-IWI32Xjth050ToJU/view?usp=sharing) [![poster](https://img.shields.io/badge/poster-FasterVAR-f9f107.svg)](https://drive.google.com/file/d/14xb1MEefT5tI-6cXO0r8UHUNo-teNdQR/view?usp=sharing) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sen-mao/StageVAR)
 
 
 [Senmao Li](https://sen-mao.github.io/)<sup>1,3</sup>, [Kai Wang](https://wangkai930418.github.io/)<sup>2</sup>,
