@@ -42,6 +42,24 @@
 </p>
 </details>
 
+## 🚀 Acceleration Text-to-Image generation
+
+**Infinity Models**
+```bash
+cd ./Infinity
+python tools/interactive_infer.py
+```
+
+[//]: # (**STAR Models**)
+
+[//]: # (```bash)
+
+[//]: # (cd ./STAR)
+
+[//]: # (python tools/interactive_infer.py)
+
+[//]: # (```)
+
 ## 📄 Citation
 
 Please cite our paper if you find this work useful for your research:
