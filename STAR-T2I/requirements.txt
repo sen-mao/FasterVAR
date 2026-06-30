@@ -1,0 +1,11 @@
+
+Pillow
+huggingface_hub
+numpy
+pytz
+transformers
+typed-argument-parser
+xformers
+accelerate
+seaborn
+webdataset
