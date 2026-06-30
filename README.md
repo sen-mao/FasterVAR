@@ -55,7 +55,8 @@ python tools/interactive_infer.py
 ```bash
 cd ./STAR-T2I
 python sample.py --model_path taocrayon/STAR/star_rope_d30_1024_drop_3-ar-ckpt-ep1-iter21000.pth \
-                 --text_model_path taocrayon/STAR/CLIP --vae_path FoundationVision/var/vae_ch160v4096z32.pth
+                 --text_model_path taocrayon/STAR/CLIP \
+                 --vae_path FoundationVision/var/vae_ch160v4096z32.pth
 ```
 
 ## 📄 Citation
