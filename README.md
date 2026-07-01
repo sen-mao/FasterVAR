@@ -42,7 +42,7 @@
 </p>
 </details>
 
-## 🚀 Accelerated for Text-to-Image generation
+## 🚀 Accelerated Text-to-Image generation
 
 We apply FasterVAR to three text-to-image VAR models: [Infinity](https://github.com/FoundationVision/Infinity), [STAR](https://github.com/Davinci-XLab/STAR-T2I/), and [HART](https://github.com/mit-han-lab/hart). FasterVAR can also be easily integrated into other VAR models for efficient inference acceleration.
 
