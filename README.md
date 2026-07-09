@@ -77,11 +77,10 @@ python sample_fastervar.py --model_path mit-han-lab/hart-0.7b-1024px/llm \
 Please cite our paper if you find this work useful for your research:
 
 ```bibtex
-@inproceedings{li2026icml,
-  title     = {FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models},
-  author    = {Li, Senmao and Wang, Kai and Khan, Salman and Khan, Fahad Shahbaz and Yang, Jian and Wang, Yaxing},
-  booktitle = {ICML},
-  year      = {2026},
+@inproceedings{lifastervar,
+  title={FasterVAR: Plug-and-Play Acceleration for Visual Autoregressive Models},
+  author={Li, Senmao and Wang, Kai and Khan, Salman and Khan, Fahad Shahbaz and Wang, Yaxing and others},
+  booktitle={Forty-third International Conference on Machine Learning}
 }
 ```
 
