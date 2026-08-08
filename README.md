@@ -73,7 +73,7 @@ python sample_fastervar.py --model_path mit-han-lab/hart-0.7b-1024px/llm \
 
 **InfinityStar**
 
-FasterVAR can be integrated into video generative models based on next-scale prediction, such as InfinityStar, delivering **1.8×** and **2.7×** speedups at 480p and 720p, respectively, with negligible degradation in visual quality. See [**InfinityStar/README.md**](./InfinityStar/README.md) for details.
+FasterVAR can be integrated into video generative models based on next-scale prediction, such as InfinityStar, delivering **1.8×** and **2.7×** speedups at 480p and 720p, respectively, with negligible degradation in visual quality. See [**./InfinityStar**](./InfinityStar) for details.
 
 ## 📄 Citation
 
