@@ -1,0 +1,2 @@
+# Overview
+To facilitate reproducibility and evaluation, we provide the rewritten prompts used in our VBench evaluations. After generating videos with our inference script, you can evaluate their performance using the scoring tools available at [VBench](https://github.com/Vchitect/VBench).
