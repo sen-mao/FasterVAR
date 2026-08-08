@@ -120,10 +120,10 @@ All runtime numbers below use 480p, 5 seconds, CFG=34, APG guidance.
 
 The two videos below are generated from the same prompt and seed.
 
-| Original InfinityStar                                                                                       | InfinityStar + FasterVAR  |
-|-------------------------------------------------------------------------------------------------------------|---|
-| <img src="assets/release_videos/infinitystar480p_original_sample.gif" controls muted width="360"></img> | <img src="assets/release_videos/infinitystar480p_fastervar_sample.gif" controls muted width="360"></img> |
-| [Download original sample](assets/release_videos/infinitystar480p_original_sample.mp4)                      | [Download FasterVAR sample](assets/release_videos/infinitystar480p_fastervar_sample.mp4) |
+| Original InfinityStar                                                                   | InfinityStar + FasterVAR  |
+|-----------------------------------------------------------------------------------------|---|
+| <img src="assets/infinitystar480p_original_sample.gif" controls muted width="360"></img> | <img src="assets/infinitystar480p_fastervar_sample.gif" controls muted width="360"></img> |
+| [Download original sample](assets/infinitystar480p_original_sample.mp4)   | [Download FasterVAR sample](assets/infinitystar480p_fastervar_sample.mp4) |
 
 ## 480P Full VBench Results
 
@@ -194,8 +194,8 @@ The two videos below are generated from the same prompt and seed.
 
 | Original InfinityStar | InfinityStar + FasterVAR  |
 |---|---|
-| <img src="assets/release_videos/infinitystar720p_original_sample.gif" controls muted width="360"></img> | <img src="assets/release_videos/infinitystar720p_fastervar_sample.gif" controls muted width="360"></img> |
-| [Download original sample](assets/release_videos/infinitystar720p_original_sample.mp4) | [Download FasterVAR sample](assets/release_videos/infinitystar720p_fastervar_sample.mp4) |
+| <img src="assets/infinitystar720p_original_sample.gif" controls muted width="360"></img> | <img src="assets/infinitystar720p_fastervar_sample.gif" controls muted width="360"></img> |
+| [Download original sample](assets/infinitystar720p_original_sample.mp4) | [Download FasterVAR sample](assets/infinitystar720p_fastervar_sample.mp4) |
 
 ## 720P Full VBench Results
 
